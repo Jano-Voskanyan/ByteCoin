@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E72A4D8829AA0235006ED9AD /* CoinManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E72A4D8729AA0235006ED9AD /* CoinManager.swift */; };
+		E72A4D8A29AA468B006ED9AD /* CoinData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E72A4D8929AA468B006ED9AD /* CoinData.swift */; };
 		E79179F029A9D5680025CB85 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E79179EF29A9D5680025CB85 /* AppDelegate.swift */; };
 		E79179F229A9D5680025CB85 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E79179F129A9D5680025CB85 /* SceneDelegate.swift */; };
 		E79179F429A9D5680025CB85 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E79179F329A9D5680025CB85 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		E72A4D8729AA0235006ED9AD /* CoinManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinManager.swift; sourceTree = "<group>"; };
+		E72A4D8929AA468B006ED9AD /* CoinData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinData.swift; sourceTree = "<group>"; };
 		E79179EC29A9D5680025CB85 /* ByteCoin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ByteCoin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E79179EF29A9D5680025CB85 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E79179F129A9D5680025CB85 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 			isa = PBXGroup;
 			children = (
 				E72A4D8729AA0235006ED9AD /* CoinManager.swift */,
+				E72A4D8929AA468B006ED9AD /* CoinData.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 			files = (
 				E72A4D8829AA0235006ED9AD /* CoinManager.swift in Sources */,
 				E79179F429A9D5680025CB85 /* ViewController.swift in Sources */,
+				E72A4D8A29AA468B006ED9AD /* CoinData.swift in Sources */,
 				E79179F029A9D5680025CB85 /* AppDelegate.swift in Sources */,
 				E79179F229A9D5680025CB85 /* SceneDelegate.swift in Sources */,
 			);
